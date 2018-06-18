@@ -1,0 +1,8 @@
+obj\Debug\EEA.exe
+obj\Debug\EEA.pdb
+bin\Debug\EEA.exe
+bin\Debug\EEA.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\EEA.Form1.resources
+obj\Debug\EEA.Properties.Resources.resources
+obj\Debug\EEA.csproj.GenerateResource.Cache
